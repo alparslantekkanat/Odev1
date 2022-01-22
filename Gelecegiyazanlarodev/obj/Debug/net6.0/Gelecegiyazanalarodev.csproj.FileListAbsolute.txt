@@ -1,0 +1,15 @@
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.AssemblyInfoInputs.cache
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.AssemblyInfo.cs
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.csproj.CoreCompileInputs.cache
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\bin\Debug\net6.0\Gelecegiyazanalarodev.exe
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\bin\Debug\net6.0\Gelecegiyazanalarodev.deps.json
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\bin\Debug\net6.0\Gelecegiyazanalarodev.runtimeconfig.json
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\bin\Debug\net6.0\Gelecegiyazanalarodev.dll
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\bin\Debug\net6.0\ref\Gelecegiyazanalarodev.dll
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\bin\Debug\net6.0\Gelecegiyazanalarodev.pdb
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.dll
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\ref\Gelecegiyazanalarodev.dll
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.pdb
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.genruntimeconfig.cache
+C:\WEB\Gelecegiyazanalarodev\Gelecegiyazanalarodev\obj\Debug\net6.0\Gelecegiyazanalarodev.csproj.AssemblyReference.cache
